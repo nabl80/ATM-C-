@@ -1,0 +1,7 @@
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\bin\Debug\Bankomatas4.exe.config
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\bin\Debug\Bankomatas4.exe
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\bin\Debug\Bankomatas4.pdb
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\obj\Debug\Bankomatas4.csprojAssemblyReference.cache
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\obj\Debug\Bankomatas4.csproj.CoreCompileInputs.cache
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\obj\Debug\Bankomatas4.exe
+C:\Users\Eugenijus\Desktop\Mano\VCS2021\C#\Bankomatas4\Bankomatas4\obj\Debug\Bankomatas4.pdb
